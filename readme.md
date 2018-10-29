@@ -4,6 +4,12 @@
 
 Switch allows you to create a small, lightweight proxy by declaring a list of rules in `YAML` format.
 
+- [darkraiden/switch](#darkraidenswitch)
+  - [Install](#install)
+  - [Examples](#examples)
+  - [TODO's](#todos)
+  - [License](#license)
+
 ## Install
 
 With a correctly configured Go toolchain:
