@@ -1,0 +1,7 @@
+paths:
+    - source: /google
+      destination: https://google.com
+    - source: /facebook
+      destination: https://facebook.com
+    - source: /
+      destination: https://www.darkraiden.com/
